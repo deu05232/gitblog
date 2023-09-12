@@ -3,7 +3,8 @@
     "listing": "/index.html",
     "items": [
       "/posts/Untitled.html",
-      "/posts/Untitled1.html"
+      "/posts/Untitled1.html",
+      "/posts/dir2/Untitled.html"
     ]
   }
 ]

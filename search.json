@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "posts/Untitled.html",
-    "href": "posts/Untitled.html",
-    "title": "test",
+    "objectID": "posts/Untitled1.html",
+    "href": "posts/Untitled1.html",
+    "title": "test2",
     "section": "",
-    "text": "1+1\n\n2"
+    "text": "\"hello\"\n\n'hello'"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "gitblog",
+    "section": "",
+    "text": "test\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ntest2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -14,10 +21,10 @@
     "text": "About this blog"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "gitblog",
+    "objectID": "posts/Untitled.html",
+    "href": "posts/Untitled.html",
+    "title": "test",
     "section": "",
-    "text": "test\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "1+1\n\n2"
   }
 ]
